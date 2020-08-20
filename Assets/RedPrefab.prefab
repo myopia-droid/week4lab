@@ -12,8 +12,9 @@ GameObject:
   - component: {fileID: 56126344898080751}
   - component: {fileID: 7991281499649410383}
   - component: {fileID: 1551909552767874893}
+  - component: {fileID: -7647496973285098451}
   m_Layer: 0
-  m_Name: RedSphere
+  m_Name: RedPrefab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -93,3 +94,15 @@ SphereCollider:
   serializedVersion: 2
   m_Radius: 0.5
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &-7647496973285098451
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 630987054554143878}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9df1f4d7f8404db692d873169614e33, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
